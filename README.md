@@ -35,7 +35,7 @@ I am passionate about identifying threats, analyzing security events, and helpin
 ---
 
 ## Connect With Me
-# Cybersecurity Portfolio – [Your Name]
+# Cybersecurity Portfolio –Shemari Gayle
 
 ## About Me
 I am currently working toward the Google Cybersecurity Professional Certificate, where I am developing skills in:
