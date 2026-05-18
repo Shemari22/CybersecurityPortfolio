@@ -87,3 +87,15 @@ www.linkedin.com/in/shemari-gayle-b7b4a33b0
 - Implement account lockout policies
 - Monitor login attempts
 - Use intrusion detection systems
+cybersecurity-portfolio/
+│
+├── tryhackme/
+│   ├── pre-security/
+│   ├── jr-penetration-tester/
+│   ├── soc-level-1/
+│   └── web-fundamentals/
+│
+├── scripts/
+├── labs/
+├── writeups/
+└── README.md
